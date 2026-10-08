@@ -1,0 +1,11 @@
+DeepShield AI - Sample Inputs
+=============================
+
+1. Congratulations you won a prize click the link to claim now
+   Expected: SCAM / SUSPICIOUS
+
+2. Please send me the notes from today's lecture
+   Expected: SAFE
+
+3. Your bank account will be blocked verify your details immediately
+   Expected: SCAM / SUSPICIOUS
